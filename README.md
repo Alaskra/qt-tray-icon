@@ -1,0 +1,1 @@
+# Minimum qt systray example

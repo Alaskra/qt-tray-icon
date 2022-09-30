@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/systray.svg</file>
+        <file>icons/systemTrayIcon.png</file>
+    </qresource>
+</RCC>
