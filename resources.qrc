@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
+        <!-- if add alias, also show empty icon -->
         <file>icons/systray.svg</file>
         <file>icons/systemTrayIcon.png</file>
     </qresource>
